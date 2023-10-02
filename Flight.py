@@ -1,7 +1,6 @@
 # Name: Orayda Shagifa
-# CS1026A Assignment 4: Air Travel
-# Description: Loads text files representing airports and flights and analyzes the flights
-# Due Date: 12.07.2022
+# Description: Air Travel, Loads text files representing airports and flights and analyzes the flights
+# Date: 12.07.2022
 
 from Airport import *
 
